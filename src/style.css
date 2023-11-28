@@ -33,6 +33,7 @@ header {
 }
 
 .search-form-input {
+  color: white;
   margin-left: 29px;
   background-color: #f9f7fe33;
   border: none;
