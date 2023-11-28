@@ -10,14 +10,9 @@
 }
 
 body {
-  background: url(chrome-untrusted://new-tab-page/custom_background_image?url=https%3A%2F%2Flh4.googleusercontent.com%2Fproxy%2FDpqBXGfm1YOshAXs8BUTA4KzMZ_l2yaa2Sr3toeS9eRc4uU0zDJ-enpxrz7AfxWnUqiKKlZFjpUnOrQ4hqKhSV9UmIbjTqIRYsZyZ7SSOLz6%3Dw3840-h2160-p-k-no-nd-mv);
-  font-family: "Roboto", sans-serif;
-  background-repeat: no-repeat;
+  background-image: url(https://lh5.googleusercontent.com/proxy/--J6dBdr5hqUSr25XekTQ8aQMvwNxjMWILf6AE7h8ZVYfgOJzMwhh_Nfv1BqEvsGTGRC51WJIE7XhGkkfekCZC1rrtrPYfClNFgZK3huFw=w3840-h2160-p-k-no-nd-mv);
   background-position: center center;
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-repeat: no-repeat no-repeat;
   background-size: cover;
 }
 
